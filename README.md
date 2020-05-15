@@ -8,6 +8,7 @@ Textbook:
 - Note: Repository has been built for Windows computers. Some packages may be incompatible with Macs.
 - Environment setup instructions: https://www.youtube.com/watch?v=sUUWLBmj7Xc&feature=youtu.be
 - Requirements.txt file: "requirements_no_builds_no_versions.txt"
+- Config.ini: You will need to change two lines in the config.ini file under [USER]. Change the text following "USERNAME:" to your username and "RAW_DATA:" to the file path to the raw data folder within the repository.
 
 # LESSONS
 
