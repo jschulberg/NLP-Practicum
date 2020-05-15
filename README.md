@@ -4,6 +4,10 @@ Textbook:
 - Speech and Language Processing (SLP): https://web.stanford.edu/~jurafsky/slp3/
 - SLP YouTube Videos: https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm
 
+# Setup and Installation
+- Note: Repository has been built for Windows computers. Some packages may be incompatible with Macs.
+- Environment setup instructions: https://www.youtube.com/watch?v=sUUWLBmj7Xc&feature=youtu.be
+- Requirements.txt file: "requirements_no_builds_no_versions.txt"
 
 # LESSONS
 
